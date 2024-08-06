@@ -1,0 +1,4 @@
+# ninja log v5
+0	42	1709293936092531302	build.ninja	2e1f9fde841f6fe7
+0	845	1709233548215737746	CMakeFiles/cpp_scripting_language.dir/main.cpp.o	d29144701896ce79
+848	1047	1709233548417154649	cpp_scripting_language	5e2563129973d79e

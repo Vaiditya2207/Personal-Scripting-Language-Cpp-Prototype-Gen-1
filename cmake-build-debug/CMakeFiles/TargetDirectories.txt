@@ -1,0 +1,3 @@
+/Users/vaidityatanwar/Desktop/cpp-scripting-language/cmake-build-debug/CMakeFiles/cpp_scripting_language.dir
+/Users/vaidityatanwar/Desktop/cpp-scripting-language/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vaidityatanwar/Desktop/cpp-scripting-language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
